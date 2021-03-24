@@ -1,5 +1,5 @@
-# 100-Days-Of-Code
-100 Days Of Code with HTML/CSS and JavaScript.
+# 100-Days-Of-Code-Projects
+This is the main repository for all of the projects for the 100 Days Of Code Challenge with HTML/CSS and JavaScript.
 
 
 # Overview
